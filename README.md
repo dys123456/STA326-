@@ -10,7 +10,8 @@ STA326陨石识别项目第9组
 - **训练集**：5098 张图片，含自然背景
 - **测试集**：194 张图片，背景已抠除（空白背景）
 - **核心挑战**：训练集与测试集存在明显的 Domain Shift
-- **最终 F1**：0.68208（账号名：wakening，二阶段链接https://www.kaggle.com/competitions/meteorite-identification-stage-2）
+- **最终 F1**：0.68208（账号名：wakening）
+- **二阶段链接**：https://www.kaggle.com/competitions/meteorite-identification-stage-2
 
 ## 方法
 
