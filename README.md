@@ -44,7 +44,9 @@ STA326陨石识别项目第9组
 ├── dataset.py            # 数据加载
 ├── README.md
 ├── .gitignore
-└── requirements.txt
+├── requirements.txt
+├── train_images/         # 训练图片（5098张），Kaggle下载
+└── test_images/          # 测试图片（194张），Kaggle下载
 ```
 
 ## 环境
